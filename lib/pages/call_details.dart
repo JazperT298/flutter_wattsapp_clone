@@ -5,7 +5,6 @@ class CallDetail extends StatelessWidget {
   final CallModel call;
 
   CallDetail({Key key, @required this.call}) : super(key: key);
-
   Widget buildHeader(BuildContext context) {
     return Container(
       color: Colors.white,
