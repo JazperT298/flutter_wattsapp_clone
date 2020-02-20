@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_wattsapp_clone/models/call_model.dart';
 
-
 class CallDetail extends StatelessWidget {
   final CallModel call;
 
