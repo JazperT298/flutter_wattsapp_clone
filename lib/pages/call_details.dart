@@ -146,7 +146,7 @@ class CallDetail extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
                 new Text(
-                  "Entrante",
+                  "Entrantes",
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 20.0,
